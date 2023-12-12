@@ -1,0 +1,38 @@
+Column,Meaning
+hospital_id,Internal hospital ID
+ein,Hospital EIN
+name,Hospital name
+street_address,Street address
+city,City
+state,State
+hospital_bed_count,Number of beds
+urban_location_f,Urban location flag
+memb_counc_teach_hosps_f,Member of the Council of Teaching Hospitals flag
+county,Hospital county
+fiscal_yr,Fiscal Year
+form_990_filed_part_grp_ret_f,Form 990 was filed as part of a group return
+form_990_num_fac_oper,Form 990 number of facilities operated
+tot_func_exp,Total functional expenses
+tot_revenue,Total revenue
+tot_comm_bnfts,Total community benefits
+chrty_care,Charity care
+unreim_medcd,Unreimbursed Medicaid
+unreim_costs,Unreimbursed costs
+comm_hlth_impr_svcs_comm_bnft_oper,Community health improvement services and community benefit operations
+bad_debt,Bad debt
+mdcre_shrtfl,Medicare Shortfall (negative value indicates surplus)
+tot_comm_bnfts_tot_func_exp_pct,Total community benefits as % of total functional expenses
+chrty_care_tot_func_exp_pct,Charity care as % of total functional expenses
+unreim_medcd_tot_func_exp_pct,Unreimbursed Medicaid as % of total functional expenses
+comm_hlth_impr_svcs_comm_bnft_oper_tot_func_exp_pct,Community health improvement services and community benefit operations as % of total functional expenses
+bad_debt_tot_func_exp_pct,Bad debt as % of total functional expenses
+mdcre_shrtfl_tot_func_exp_pct,Medicare Shortfall as % of total functional expenses (negative value indicates surplus)
+rat_pat_care_npat_care_comm_bnfts,Ratio of Patient Care to Non-patient Care Community Benefits
+chna_cond_w_mult_hosp_facilities_f,CHNA conducted with multiple hospital facilities
+per_capita_inc,per capita income
+med_hsehld_inc,median household income
+percent_ppl_pov,percent persons in poverty
+percent_ppl_65_yrs_old_without_hlth_insr,percent persons <65 years old without health insurance
+unemp_rate_16_yrs_older,unemployment rate 16 years and older
+st_impl_aca_medcd_exp_cvrg_adlts_w_incs_up_138pct_fpl_f,State implemented ACA Medicaid expansion covering adults with incomes up to 138% FPL
+st_law_req_hosp_rpt_comm_bnfts_f,State law requiring hospital to report community benefits
